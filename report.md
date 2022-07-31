@@ -151,7 +151,7 @@
 
 2. Пример перехвачено HTTP трафика
 
-   ![риc1](/home/randuil/.config/Typora/typora-user-images/image-20210723055919167.png)
+   ![риc1](/pics/2.png)
    
    рис 1.
 
@@ -243,13 +243,13 @@ $ python client.py 'This is a test 12345 54321'
 
 3. Вывод сервера
 
-![image-20210803161610016](/home/randuil/.config/Typora/typora-user-images/image-20210803161610016.png)
+![рис2](/pics/3.png)
 
 рис 2.
 
 4. Пакеты, перехваченые Wireshark
 
-   ![image-20210803162032505](/home/randuil/.config/Typora/typora-user-images/image-20210803162032505.png)
+   ![рис3](/pics/4.png)
    
    рис 3.
    
