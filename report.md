@@ -147,7 +147,7 @@
    cd run && ./wireshark
    ```
 
-![image-20210723055143707](/home/randuil/.config/Typora/typora-user-images/image-20210723055143707.png)
+![image-20210723055143707](/pics/1.png)
 
 2. Пример перехвачено HTTP трафика
 
